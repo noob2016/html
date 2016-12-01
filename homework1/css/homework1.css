@@ -1,0 +1,15 @@
+div.total{
+    border: 2px solid coral;
+    width: 200px;
+}
+div{
+    border-width: 1px ;
+    border-bottom-style: dashed;
+}
+img{
+    vertical-align: middle;
+}
+span{
+    font-weight: 800;
+    vertical-align: middle;
+}
